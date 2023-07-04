@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Firozwala",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-06-28T04:09:30.252Z",
+      "notes": "",
+      "position": {
+        "lat": "31.7561737118765",
+        "lng": "74.32523400857515"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Pastoral Unincorporated Area",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2023-07-03T17:43:51.057Z",
+      "notes": "",
+      "position": {
+        "lat": "-29.54552131897851",
+        "lng": "140.0903607654166"
+      },
+      "id": 4
+    }
+  ]
+}
